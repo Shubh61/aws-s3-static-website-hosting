@@ -1,11 +1,8 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
-
 # Host a Website on Amazon S3
 
 **Project Link:** [View Project](https://nextwork.ai/projects/70e2d059-31ab-5f67-8c58-f5edbd451140)
 
 **Author:** Shubh Biswas  
-**Email:** shubhbiswas61@gmail.com
 
 ---
 
@@ -132,4 +129,4 @@ My bucket policy explicitly denies deletion of the index.html file. I tested the
 
 ---
 
-*Built with [NextWork](https://nextwork.ai) - [View this project](https://nextwork.ai/projects/70e2d059-31ab-5f67-8c58-f5edbd451140)*
+**Note:** The AWS resources used for this project have been deleted after completion to avoid ongoing costs. The documentation and screenshots are retained here to demonstrate the implementation and configuration process.
