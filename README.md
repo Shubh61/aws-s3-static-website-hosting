@@ -65,7 +65,7 @@ Both files are necessary for this project as `index.html` determines the structu
 
 ### What I did in this step
 
-In this step, I made my website available to the public. This is called Static Website Hosting and its important because my website files will stay as just files and not turn into a website if this step isn't done.
+In this step, I made my website available to the public. This is called Static Website Hosting and it's important because my website files will stay as just files and not turn into a website if this step isn't done.
 
 ### Understanding website hosting
 
@@ -103,7 +103,7 @@ Once that is done, the website will be live
 
 ### How I resolved the 403 error
 
-To resolve this 403 Forbidden error, I updated the access setting of the files inside the bucket too
+To resolve this 403 Forbidden error, I updated the access setting of the files inside the bucket.
 Using ACLs, I made my objects (files inside the bucket) public.
 When I checked my S3 bucket's website endpoint, the webpage loaded successfully.
 
